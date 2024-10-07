@@ -3,10 +3,16 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=💡Hey+%F0%9F%91%8B,I%27m+mratotech.....;Keep+Minning...!&size=25">
   </a>
 </h1>
-# 👨‍💻 Mr.AtoTech | Cyber Enthusiast and Tech Doyen
-![Cyber Banner]
-<a href="#"><img width="100%" height="auto" src="https://pbs.twimg.com/media/GZGSpb_bYAAMVZI?format=jpg&name=medium" height="175px" /></a>
+
+<div align="center">
+  <a href="#">
+    <img width="50%" height="auto" src="https://pbs.twimg.com/media/GZGSpb_bYAAMVZI?format=jpg&name=medium" alt="Image" />
+  </a>
+</div>
+
  <!-- Replace with a cyber-themed banner image URL -->
+# 👨‍💻 Mr.AtoTech | Cyber Enthusiast and Tech Doyen
+
 
 Welcome to **Mr. Ato Tech**, your gateway to the latest in tech innovations, cybersecurity insights, and futuristic explorations! I’m all about unraveling the complexities of technology and sharing my findings with the world. Whether you’re here to dive deep into code, explore new tech projects, or just get some tips on navigating the digital landscape, you’re in the right place.
 
