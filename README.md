@@ -4,8 +4,9 @@
   </a>
 </h1>
 # 👨‍💻 Mr.AtoTech | Cyber Enthusiast and Tech Doyen
-
-![Cyber Banner]([https://mratotech.github.io/assets/img/portfolio/54vibes-project.png]) <!-- Replace with a cyber-themed banner image URL -->
+![Cyber Banner]
+<a href="#"><img width="100%" height="auto" src="https://pbs.twimg.com/media/GZGSpb_bYAAMVZI?format=jpg&name=medium" height="175px" /></a>
+ <!-- Replace with a cyber-themed banner image URL -->
 
 Welcome to **Mr. Ato Tech**, your gateway to the latest in tech innovations, cybersecurity insights, and futuristic explorations! I’m all about unraveling the complexities of technology and sharing my findings with the world. Whether you’re here to dive deep into code, explore new tech projects, or just get some tips on navigating the digital landscape, you’re in the right place.
 
